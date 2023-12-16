@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="SeyiIntro">I\'m Seyi and I derive great pleasure in coming up with app ideas and building them into a viable products.</string>
+    <string name="buttonText">SAY HELLO!</string>
+</resources>
